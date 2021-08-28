@@ -1,3 +1,16 @@
+- [Running Stata in VScode](#running-stata-in-vscode)
+    - [Disclaimer](#disclaimer)
+  - [Why running Stata in Visual Studio Code](#why-running-stata-in-visual-studio-code)
+  - [How to Install and run Stata from VSCode seamlessly](#how-to-install-and-run-stata-from-vscode-seamlessly)
+    - [Install VS code](#install-vs-code)
+    - [Install Plug-Ins](#install-plug-ins)
+    - [Download and edit custom scripts](#download-and-edit-custom-scripts)
+      - [Download Scripts](#download-scripts)
+      - [Edit Scripts](#edit-scripts)
+    - [Edit VS Code settings](#edit-vs-code-settings)
+    - [Add Shortcuts to VS Code to run Stata](#add-shortcuts-to-vs-code-to-run-stata)
+  - [Credits](#credits)
+
 # Running Stata in VScode
 ### Disclaimer
 This guide is heavily based on a guide I found online on how to run Stata on Visual Studio Code.  
@@ -100,4 +113,7 @@ If stata is not opened when using either command, then VS Code will simply open 
 
 Unfortunately I am currently not aware of any way of using multiple stata consoles from VS Code.
 
-
+## Credits
+- *Code Runner* author Jun Han: https://github.com/formulahendry
+- *Stata Enhanced* author Kyle Barron: https://marketplace.visualstudio.com/publishers/kylebarron
+- *Rundo* and *Rundolines* author Friedrich Huebler: https://huebler.blogspot.com/
